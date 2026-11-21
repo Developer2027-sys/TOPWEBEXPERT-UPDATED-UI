@@ -1,0 +1,135 @@
+{
+  "route": "/app-development",
+  "serviceSlug": "app-development",
+  "serviceName": "Mobile App Development",
+  "pageTitle": "Mobile App Development | Android & iOS Apps – TopWebExpert",
+  "metaDescription": "Android, iOS and cross-platform apps planned, designed, built and launched by one team. 7+ years and 500+ projects delivered. Get a free app consultation.",
+  "metaKeywords": "mobile app development, app development company, android app development, ios app development, flutter app development, react native, app developers gurugram, app development delhi ncr",
+  "h1": "Mobile App Development Company",
+  "tagline": "Android, iOS and cross-platform apps planned, designed, built and launched by one accountable team, from the first wireframe to the app store and beyond.",
+  "heroButton": "Discuss Your App Idea",
+  "image": "APP-Engagement.png",
+  "imageAlt": "Mobile app interface designed and developed by TopWebExpert",
+  "intro": [
+    "A good app does one job so well that people keep it on their home screen. Getting there takes more than writing code: you need a clear idea of who the app is for, a design that feels obvious to use, a reliable backend, careful testing on real devices and a launch plan that gets the first users through the door.",
+    "TopWebExpert builds mobile apps for startups, growing businesses and established companies. We are a Delhi NCR agency headquartered in Gurugram, with an office in Noida, and over seven years we have delivered more than 500 digital projects. Our app team works across native Android and iOS and cross-platform frameworks, so we can recommend the approach that suits your budget, timeline and users, rather than the one we happen to prefer.",
+    "Whether you need a customer-facing app, an internal tool for your field team, a marketplace or an app for an existing website or e-commerce store, we handle the whole journey: discovery, UI/UX design, development, testing, store submission and ongoing support."
+  ],
+  "sections": [
+    {
+      "type": "services",
+      "heading": "Our App Development Services",
+      "intro": "One team for the whole product, so nothing gets lost between the designer, the developer and the person who launches it.",
+      "items": [
+        { "title": "Android app development", "text": "Native Android apps in Kotlin, built to Google's design and performance guidelines and tested across the range of devices and screen sizes your users actually own." },
+        { "title": "iOS app development", "text": "Native iPhone and iPad apps in Swift, designed around Apple's Human Interface Guidelines and prepared for App Store review from day one." },
+        { "title": "Cross-platform apps", "text": "Flutter and React Native apps that share one codebase across Android and iOS. For many products this cuts cost and time while keeping a native look and feel." },
+        { "title": "UI/UX design for apps", "text": "User research, user flows, wireframes, clickable prototypes and polished interface design, tested with real users before development starts." },
+        { "title": "Backend and APIs", "text": "Secure APIs, databases, admin panels, push notifications, payments, maps and third-party integrations, built to scale as your user base grows." },
+        { "title": "App for your website or store", "text": "Turn an existing website, WordPress site or Shopify store into an app with shared accounts, catalogue, cart and order history." },
+        { "title": "Testing and quality assurance", "text": "Functional, usability, performance and security testing on real devices, plus beta testing with your own users before launch." },
+        { "title": "App store launch", "text": "Store listings, screenshots, descriptions, privacy details and submission to Google Play and the App Store, including handling review feedback." },
+        { "title": "Maintenance and updates", "text": "OS updates, bug fixes, performance monitoring, security patches and new features on a monthly support plan." }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Native or Cross-Platform: Which Is Right for You?",
+      "paragraphs": [
+        "One of the first decisions in any app project is whether to build two native apps or one cross-platform app. There is no universally right answer, and we will explain the trade-offs for your specific product rather than push one option.",
+        "Native development (Kotlin for Android, Swift for iOS) gives the best performance and the deepest access to device features. It is usually the right choice for apps that rely heavily on the camera, sensors, Bluetooth, complex animations or offline processing, and for products where a polished platform-specific experience is part of the value.",
+        "Cross-platform development (Flutter or React Native) shares most of the code between Android and iOS. For the majority of business apps, such as booking, ordering, loyalty, content, field-service and marketplace apps, it delivers a high-quality experience at a lower cost, with one team maintaining one codebase. It also makes it easier to keep both versions in step when you add features.",
+        "During discovery we look at your features, budget, timeline and long-term plans, and recommend the approach that gives you the best product for the money."
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "How We Build Your App",
+      "intro": "A clear process keeps projects on time and avoids surprises. Every stage ends with something you can see and approve.",
+      "steps": [
+        { "title": "Discovery workshop", "text": "We define the problem the app solves, who the users are, the must-have features for the first version and how success will be measured." },
+        { "title": "Scope and estimate", "text": "You receive a written scope, a feature list, a technology recommendation, a timeline and a fixed or phased estimate." },
+        { "title": "UX and UI design", "text": "User flows and wireframes come first, then visual design and a clickable prototype you can try on your phone before any code is written." },
+        { "title": "Agile development", "text": "We build in short sprints and share a working build regularly, so you can test progress and change priorities early." },
+        { "title": "Testing", "text": "Our QA team tests on real Android and iOS devices, followed by beta testing with a group of your users." },
+        { "title": "Launch", "text": "We prepare store listings, submit the app, handle review questions and monitor the first days after release closely." },
+        { "title": "Support and growth", "text": "After launch we fix issues, keep the app compatible with new OS versions and plan the next set of features based on real usage data." }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Apps We Build",
+      "paragraphs": [
+        "Our team has worked on apps for a wide range of business needs. Common types include:"
+      ],
+      "list": [
+        "E-commerce and shopping apps connected to an existing store",
+        "Booking and appointment apps for clinics, salons, gyms and service businesses",
+        "Food ordering and delivery apps",
+        "Real estate apps with property listings, search and enquiry management",
+        "Education and e-learning apps with courses, videos and progress tracking",
+        "Field-service and sales apps for teams that work on the move",
+        "Marketplace apps that connect buyers and sellers or customers and providers",
+        "Internal business tools that replace spreadsheets and paper processes"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What Affects the Cost of an App",
+      "paragraphs": [
+        "We do not publish a single price for app development, because two apps with similar names can differ several times over in effort. The main factors are:"
+      ],
+      "list": [
+        "The number of screens and features in the first version",
+        "Native Android and iOS apps or one cross-platform app",
+        "Whether you need a custom backend, an admin panel or integration with existing systems",
+        "Payments, maps, chat, video, offline use or other complex features",
+        "The level of custom design and animation",
+        "Ongoing maintenance and support after launch"
+      ],
+      "after": [
+        "The most cost-effective route is usually a focused first version that solves the core problem well, launched quickly and improved based on real feedback. We will help you decide what belongs in that first release and what can wait. After the discovery call you receive a written estimate, so there are no surprises later."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why Businesses Choose TopWebExpert for App Development",
+      "paragraphs": [
+        "You work with one team that owns the outcome. The people who design your app talk to the people who build it, and the same team supports it after launch. You get regular builds to test, plain-language updates and a single point of contact.",
+        "Because we are also a digital marketing agency, we think about how people will find and use the app, not just how it is built. That means store listings written to be found, analytics set up from the first release and, if you need it, campaigns to bring in your first users.",
+        "You own everything we create: the source code, designs and store accounts are yours."
+      ]
+    },
+    {
+      "type": "case-studies",
+      "heading": "Apps We Have Delivered",
+      "items": [
+        { "placeholder": true, "client": "TODO: app name, client and industry (with written permission)", "challenge": "TODO: what the client needed", "work": "TODO: platform, key features, timeline", "result": "TODO: downloads, ratings, orders or time saved" },
+        { "placeholder": true, "client": "TODO: second app", "challenge": "TODO", "work": "TODO", "result": "TODO" }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Mobile App Development FAQs",
+      "items": [
+        { "q": "How long does it take to build a mobile app?", "a": "A focused first version usually takes a few months from discovery to launch. Simple apps can be faster, and apps with complex backends, integrations or many user roles take longer. You get a timeline with the written scope." },
+        { "q": "Should I build for Android or iOS first?", "a": "In India, Android has a much larger share of users, so many businesses start there or build both at once with a cross-platform framework. If your target audience is mainly iPhone users, or you serve markets like Australia, iOS may matter more. We look at your audience before recommending." },
+        { "q": "Do I own the source code?", "a": "Yes. On final payment the source code, designs and all project assets belong to you, and the apps are published under your own developer accounts." },
+        { "q": "Can you build an app for my existing website or Shopify store?", "a": "Yes. We can connect the app to your existing website, WordPress site or Shopify store so products, customers and orders stay in sync." },
+        { "q": "Will you help with publishing on Google Play and the App Store?", "a": "Yes. We prepare the listings, screenshots and privacy details, submit the app and handle any feedback from the store review teams." },
+        { "q": "Do you provide support after launch?", "a": "Yes. We offer monthly maintenance plans that cover bug fixes, OS compatibility updates, monitoring, security patches and small improvements, with larger features quoted separately." },
+        { "q": "Can you take over an app built by another developer?", "a": "Usually, yes. We start with a code review to assess quality and risks, then recommend whether to continue with the existing code, refactor parts of it or rebuild." }
+      ]
+    }
+  ],
+  "related": {
+    "/ui-ux-design": "UI/UX Design",
+    "/web-development-company": "Website Designing & Development",
+    "/ecommerce-website-development-company": "E-Commerce Website Development",
+    "/shopify-services": "Shopify Development"
+  },
+  "cta": {
+    "heading": "Have an App Idea? Let's Plan It Together",
+    "text": "Book a free consultation. We will help you shape the first version, choose the right technology and estimate time and cost."
+  }
+}

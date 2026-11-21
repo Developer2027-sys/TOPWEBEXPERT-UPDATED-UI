@@ -1,0 +1,125 @@
+{
+  "route": "/local-seo",
+  "serviceSlug": "local-seo",
+  "serviceName": "Local SEO",
+  "pageTitle": "Local SEO Services | Rank in Google Maps – TopWebExpert",
+  "metaDescription": "Local SEO that gets you into the Google map pack: profile optimisation, citations, reviews and location pages. 7+ years, 150+ clients. Free local audit.",
+  "metaKeywords": "local seo, local seo company, local seo services, local seo near me, google maps ranking, map pack seo, local seo gurugram, local seo delhi ncr",
+  "h1": "Local SEO Services",
+  "tagline": "Be the business people find when they search \"near me\". We get local companies into the Google map pack and the local results, then turn those searches into calls, visits and enquiries.",
+  "heroButton": "Get a Free Local SEO Audit",
+  "image": "leading-seo-company.png",
+  "imageAlt": "Local SEO specialist at TopWebExpert reviewing Google Maps rankings for a client",
+  "intro": [
+    "When someone searches for a dentist, a CA firm, a furniture showroom or a digital agency \"near me\", Google does not show them ten blue links first. It shows a map with three businesses on it. Those three get most of the calls, direction requests and website visits. Local SEO is the work that decides whether your business is one of them.",
+    "TopWebExpert is a Delhi NCR digital marketing agency headquartered in Gurugram, with an office in Noida and a branch in Melbourne. For more than seven years we have helped over 150 businesses grow through search, and local search is where most of them see results fastest. Our local SEO service covers everything that influences map and local rankings: your Google Business Profile, your website's location signals, consistent business listings across the web, reviews and local links.",
+    "We do not sell a fixed package of directory submissions. Every engagement starts with an audit of how you appear today, for the searches your customers actually use, in the areas you actually serve. Then we fix what holds you back, in order of impact, and report on calls and enquiries rather than vanity rankings."
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "How Local Search Rankings Work",
+      "paragraphs": [
+        "Google ranks local businesses on three broad factors: relevance, distance and prominence. Relevance is how well your business matches the search, which depends heavily on your Google Business Profile categories, services and the content on your website. Distance is how close you are to the person searching or to the place named in the search. You cannot change where you are, but you can make sure Google understands exactly where you are and which areas you serve. Prominence is how well known and trusted your business is, measured through reviews, mentions on other websites, links and your overall search presence.",
+        "Most businesses that struggle in local results have problems in more than one of these areas at once: a profile with the wrong primary category, an address written three different ways across the web, a website with no page that explains the service in that city, and a handful of reviews from years ago. Each issue on its own is small. Together they push you off the map pack and below competitors who have simply been more careful.",
+        "Local SEO fixes these problems systematically. It is not a trick and it is not instant, but it is one of the most reliable ways for a business with a physical location or a defined service area to win more customers from search."
+      ]
+    },
+    {
+      "type": "services",
+      "heading": "What Our Local SEO Service Includes",
+      "intro": "Each engagement is scoped after the audit, but most local SEO projects include the following work.",
+      "items": [
+        { "title": "Local SEO audit", "text": "We check your map rankings across your service area, your Google Business Profile, your website's local signals, your listings on directories and maps, your reviews and the competitors who outrank you. You get a prioritised list of issues, not a generic score." },
+        { "title": "Google Business Profile optimisation", "text": "Correct primary and secondary categories, services, business description, hours, attributes, photos and products. We fix pin placement, remove duplicates and set up a posting routine so your profile stays active." },
+        { "title": "Citation building and clean-up", "text": "Your business name, address and phone number need to match everywhere: Justdial, Sulekha, IndiaMART, Bing Places, Apple Maps, industry directories and more. We find inconsistent or duplicate listings, correct them and add the ones that are missing." },
+        { "title": "Location pages and on-page SEO", "text": "Your website needs to tell Google what you do and where. We optimise titles, headings, content and internal links, and where you genuinely serve several areas we write distinct location pages with real local information rather than copied text." },
+        { "title": "Review strategy", "text": "Reviews influence both rankings and whether people choose you. We set up a simple process to ask happy customers for reviews, give your team reply templates and help you deal with fake or abusive reviews through the proper channels." },
+        { "title": "Local links and mentions", "text": "Links from local news sites, associations, suppliers, event pages and community organisations show Google that you are a real, established local business. We find and pursue the ones that fit your business." },
+        { "title": "Local schema markup", "text": "Structured data on your website (LocalBusiness, opening hours, address, geo-coordinates, services) helps search engines read your business details reliably." },
+        { "title": "Tracking and reporting", "text": "We track map-pack positions across a grid of locations, profile calls, direction requests, website visits from local search and enquiry form submissions, so you see what local SEO is actually producing." },
+        { "title": "Multi-location management", "text": "For businesses with several branches we manage each profile, keep details consistent and build location pages that do not compete with each other." }
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Our Local SEO Process",
+      "intro": "Local SEO works best as a steady programme rather than a one-off project. This is how a typical engagement runs.",
+      "steps": [
+        { "title": "Discovery call", "text": "We learn which services matter most to your business, where your customers come from, which areas you want to win and what has been tried before." },
+        { "title": "Audit and baseline", "text": "We record your current map positions, profile performance, listings and reviews, so every later improvement can be measured against a clear starting point." },
+        { "title": "Fix the foundations", "text": "In the first month we correct the profile, categories, pin, NAP consistency on the main platforms and the most important on-page issues. These changes often have the quickest effect." },
+        { "title": "Build prominence", "text": "Over the following months we add and clean citations, launch the review process, earn local links and publish useful local content." },
+        { "title": "Measure and refine", "text": "Monthly reports show rankings across your area, calls, direction requests and enquiries. We adjust the plan based on what is moving and what is not." },
+        { "title": "Expand", "text": "Once the core service and area perform, we extend to secondary services, nearby areas or additional branches." }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Local SEO Is For",
+      "paragraphs": [
+        "Local SEO is built for businesses whose customers are nearby, or who serve a defined area. It suits:"
+      ],
+      "list": [
+        "Clinics, dentists, physiotherapists, diagnostic labs and other healthcare providers",
+        "Restaurants, cafés, salons, gyms and other walk-in businesses",
+        "Real estate brokers, interior designers and architects working in specific sectors or cities",
+        "Professional services such as CA firms, lawyers, consultants and training institutes",
+        "Home services: repairs, pest control, packers and movers, cleaning and installation",
+        "Showrooms, retailers and dealers who want more store visits",
+        "Multi-branch businesses that need every location to appear in its own area"
+      ],
+      "after": [
+        "If your business is online-only and does not serve customers at a location or in a defined area, you are usually not eligible for a Google Business Profile, and our general search engine optimisation service will be the better fit."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Local SEO in Delhi NCR and Beyond",
+      "paragraphs": [
+        "Our head office is in Tower B1, Spaze I Tech Park on Sohna Road, Sector 49, Gurugram, and we have an office in Sector 20, Noida. Working in Delhi NCR every day means we understand how local search behaves here: people search both \"Gurgaon\" and \"Gurugram\", large business parks and towers make pin placement tricky, and many service areas cross state lines between Delhi, Haryana and Uttar Pradesh.",
+        "We also run local SEO for clients in Mumbai, Bangalore, Pune, Hyderabad and other Indian cities, and in Australia through our Melbourne branch. The principles are the same everywhere. What changes is the competition, the directories that matter and the way people in that market search."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What Results to Expect, and When",
+      "paragraphs": [
+        "We will not promise a number one position, and you should be wary of anyone who does. Rankings depend on your competitors, your location and how much work your profile and website need. What we can tell you is how local SEO usually progresses.",
+        "Fixes to the Google Business Profile and on-page basics can show an effect within a few weeks. Citations, reviews and links build up over three to six months, and that is when most clients see a clear rise in calls, direction requests and enquiries. In very competitive categories, such as dentists or property in central Gurugram, it can take longer.",
+        "Throughout, we report on the numbers that matter to your business: how often you appear, how many people call or ask for directions, and how many enquiries come from local search."
+      ]
+    },
+    {
+      "type": "case-studies",
+      "heading": "Local SEO Results for Our Clients",
+      "items": [
+        { "placeholder": true, "client": "TODO: client name and industry (with written permission)", "challenge": "TODO: starting position, e.g. not in the map pack for the main service", "work": "TODO: what we changed", "result": "TODO: measured result with dates, e.g. calls from profile before vs after" },
+        { "placeholder": true, "client": "TODO: second client", "challenge": "TODO", "work": "TODO", "result": "TODO" }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Local SEO FAQs",
+      "items": [
+        { "q": "What is the difference between local SEO and regular SEO?", "a": "Regular SEO aims to rank your website for searches anywhere. Local SEO focuses on searches with local intent, such as \"near me\" or a city name, and on the map pack. It relies much more on your Google Business Profile, business listings, reviews and location signals." },
+        { "q": "How long does local SEO take to work?", "a": "Profile and on-page fixes can have an effect within a few weeks. Most businesses see a clear increase in calls and enquiries within three to six months. Very competitive categories and areas take longer." },
+        { "q": "How much do local SEO services cost?", "a": "It depends on the number of locations, how competitive your category is and how much clean-up your listings need. We give a fixed monthly quote after a free audit, so you know the cost before you commit." },
+        { "q": "Do I need a physical office to rank in Google Maps?", "a": "No. Service-area businesses that visit customers can have a profile without showing their address. You do need a real business that meets Google's guidelines, and you should not use a virtual office address as a storefront." },
+        { "q": "Can you guarantee a top 3 position in the map pack?", "a": "No honest agency can. Google decides rankings, and distance from the searcher always plays a part. We commit to the work, to transparent reporting and to improving your visibility and enquiries over time." },
+        { "q": "Will you need access to my Google Business Profile?", "a": "Yes. We ask for manager access, so you keep ownership of the profile at all times. If you have lost access, we help you recover it." },
+        { "q": "Do you work with businesses outside Delhi NCR?", "a": "Yes. We work with businesses across India and in Australia. Local SEO is done remotely, and we use local rank tracking to see your results exactly as customers in your area see them." }
+      ]
+    }
+  ],
+  "related": {
+    "/google-my-business": "Google Business Profile Optimization",
+    "/search-engine-optimization": "Search Engine Optimization",
+    "/web-development-company": "Website Designing & Development",
+    "/google-marketing": "Google Ads Management"
+  },
+  "cta": {
+    "heading": "Find Out Why You Are Not in the Map Pack",
+    "text": "Get a free local SEO audit: your map rankings, profile issues and the three fixes that will make the biggest difference."
+  }
+}

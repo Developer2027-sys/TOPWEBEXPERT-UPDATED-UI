@@ -1,0 +1,151 @@
+{
+  "route": "/ui-ux-design",
+  "serviceSlug": "ui-ux-design",
+  "serviceName": "UI/UX Design",
+  "pageTitle": "UI/UX Design Services | Websites & Apps – TopWebExpert",
+  "metaDescription": "UI/UX design for websites, apps and SaaS: research, wireframes, prototypes, design systems and usability testing. 500+ projects delivered. Free UX review.",
+  "metaKeywords": "ui ux design, ui ux design services, ui ux design company, ux design agency, website ux design, app ui design, ux audit, ui ux designer gurugram, ui ux design delhi ncr",
+  "h1": "UI/UX Design Services",
+  "tagline": "Interfaces that look good and are easy to use, designed around how your customers actually think and behave, so more of them sign up, book or buy.",
+  "heroButton": "Get a Free UX Review",
+  "image": "interactive-design.png",
+  "imageAlt": "UI/UX designer at TopWebExpert working on wireframes and interface designs",
+  "intro": [
+    "Most people decide within seconds whether a website or app is worth their time. If they cannot find what they came for, do not understand the next step or do not trust what they see, they leave. Good UI/UX design removes that friction. It makes the right action obvious, the content easy to read and the whole experience feel reliable.",
+    "TopWebExpert designs user interfaces and user experiences for websites, mobile apps, e-commerce stores, SaaS products and internal business tools. We are a Delhi NCR agency headquartered in Gurugram, with an office in Noida, and in more than seven years we have delivered over 500 digital projects. Our designers work alongside our developers and marketers, so the designs we create can be built properly and are shaped by what brings in customers.",
+    "We can design a new product from scratch, redesign an existing site or app, or audit what you have today and fix the problems that cost you the most conversions."
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "UI and UX: What Is the Difference?",
+      "paragraphs": [
+        "UX (user experience) design is about how something works: what people are trying to do, the steps they take, the information they need at each step and where they get stuck. It covers research, information architecture, user flows and wireframes.",
+        "UI (user interface) design is about how it looks and feels: layout, typography, colour, icons, buttons, spacing and the small interactions that make an interface feel responsive. It turns the structure created in UX into something clear, attractive and on-brand.",
+        "You need both. A beautiful interface on a confusing flow still loses customers, and a well-planned flow with a cluttered, untrustworthy interface does too. Our designers handle both sides, so the structure and the visuals support each other."
+      ]
+    },
+    {
+      "type": "services",
+      "heading": "Our UI/UX Design Services",
+      "intro": "Choose a full design project or just the pieces you need.",
+      "items": [
+        { "title": "User research", "text": "Stakeholder interviews, user interviews, surveys, analytics review and competitor analysis to understand who your users are and what they need." },
+        { "title": "UX audit", "text": "An expert review of your existing website or app against usability principles and your analytics, with a prioritised list of problems and recommended fixes." },
+        { "title": "Information architecture", "text": "Clear navigation, page hierarchy and content structure, so people can find what they need without thinking about it." },
+        { "title": "User flows and wireframes", "text": "Step-by-step flows for key tasks such as sign-up, booking and checkout, and low-fidelity wireframes to agree on structure before visual design starts." },
+        { "title": "Visual UI design", "text": "High-fidelity screens for desktop, tablet and mobile that reflect your brand and follow accessibility best practice for contrast, text size and tap targets." },
+        { "title": "Interactive prototypes", "text": "Clickable prototypes in Figma that you and your users can try before a line of code is written, so problems are found when they are cheap to fix." },
+        { "title": "Design systems", "text": "Reusable components, styles and guidelines that keep your product consistent and make future design and development faster." },
+        { "title": "Usability testing", "text": "Sessions with real users completing real tasks, so decisions are based on evidence rather than opinion." },
+        { "title": "Developer handover", "text": "Organised Figma files, specifications, assets and support during development, so what gets built matches what was designed." }
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Our Design Process",
+      "intro": "Every project is different, but most follow this sequence. Each stage ends with a review, so you stay in control of the direction.",
+      "steps": [
+        { "title": "Understand", "text": "We learn about your business goals, your users and your constraints, and review analytics and existing designs." },
+        { "title": "Define", "text": "We agree on the key user groups, the tasks that matter most, success measures and the scope of the design work." },
+        { "title": "Structure", "text": "We create the information architecture, user flows and wireframes, and test them with you and, where possible, with users." },
+        { "title": "Design", "text": "We produce the visual design for each screen and state, starting with a style direction you approve before we design every page." },
+        { "title": "Prototype and test", "text": "We link the screens into a clickable prototype, test it with real users and refine the design based on what we see." },
+        { "title": "Hand over and support", "text": "We prepare the files and design system for developers and stay involved during the build to answer questions and review the result." }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What We Design",
+      "paragraphs": [
+        "Our UI/UX team works on a wide range of digital products, including:"
+      ],
+      "list": [
+        "Business and corporate websites",
+        "E-commerce and Shopify stores, including product pages and checkout",
+        "Landing pages for paid campaigns",
+        "Android and iOS mobile apps",
+        "SaaS dashboards and web applications",
+        "Booking, ordering and customer portals",
+        "Internal tools and admin panels"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Signs Your Website or App Needs UX Work",
+      "paragraphs": [
+        "UX problems rarely announce themselves. They show up as numbers that are lower than they should be. It is worth a closer look if you notice any of the following:"
+      ],
+      "list": [
+        "Plenty of traffic but few enquiries, sign-ups or sales",
+        "High drop-off on a particular step, such as the cart, checkout or a form",
+        "Customers often call or message to ask things the website should answer",
+        "Mobile visitors convert much worse than desktop visitors",
+        "Your team has to explain how to use the app or internal tool",
+        "The design looks dated next to your competitors and does not reflect your brand"
+      ],
+      "after": [
+        "A UX audit is often the most cost-effective first step. It identifies the specific problems behind these symptoms and tells you which fixes are likely to have the biggest effect."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Design That Supports Your Marketing and SEO",
+      "paragraphs": [
+        "Because TopWebExpert is also a digital marketing agency, we design with the whole customer journey in mind. Pages are structured so search engines can understand them, headings and content are planned for the searches your customers use, and layouts are built to load quickly and avoid the layout shifts that hurt both users and Core Web Vitals.",
+        "We also design for conversion: clear calls to action, trust signals placed where doubts arise, forms that ask only for what is necessary and mobile layouts that work with one thumb. The result is a design that looks good in a presentation and also performs once real visitors arrive."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What You Receive at the End of a Project",
+      "paragraphs": [
+        "Design work is only useful if your team and your developers can act on it. Depending on the scope we agree, a UI/UX project with TopWebExpert typically ends with the following deliverables, all of which belong to you:"
+      ],
+      "list": [
+        "A research summary with user groups, key tasks and the main problems we found",
+        "Site maps or app structure diagrams and user flows for every key journey",
+        "Wireframes for each page or screen type",
+        "High-fidelity designs for desktop, tablet and mobile, including empty, error and loading states",
+        "A clickable prototype you can share with investors, colleagues or test users",
+        "A design system with colours, typography, components and usage notes",
+        "A usability testing report with findings and the changes made in response",
+        "Developer-ready Figma files with specifications and exported assets"
+      ],
+      "after": [
+        "After handover we stay available to answer developer questions and review the built product against the designs, because small differences in spacing, states or wording can undo a lot of careful design work. If you later add new features, the design system makes it quick to extend the product without it starting to look inconsistent."
+      ]
+    },
+    {
+      "type": "case-studies",
+      "heading": "Design Projects We Are Proud Of",
+      "items": [
+        { "placeholder": true, "client": "TODO: client and product (with written permission)", "challenge": "TODO: the problem, e.g. low checkout completion", "work": "TODO: research, redesign scope", "result": "TODO: measured change, e.g. conversion rate before vs after" },
+        { "placeholder": true, "client": "TODO: second project", "challenge": "TODO", "work": "TODO", "result": "TODO" }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "UI/UX Design FAQs",
+      "items": [
+        { "q": "How long does a UI/UX design project take?", "a": "A UX audit takes one to two weeks. Designing a business website usually takes a few weeks, and a complete app or SaaS product takes longer depending on the number of screens and user roles. You receive a timeline with the scope." },
+        { "q": "What tools do you use?", "a": "We design and prototype in Figma, which lets you view, comment on and share designs in your browser. We hand over organised Figma files that you own." },
+        { "q": "Can you redesign our website without changing the platform?", "a": "Yes. We can design within the limits of your existing platform, such as WordPress or Shopify, or recommend changes where the platform is holding you back." },
+        { "q": "Do you also build the designs?", "a": "Yes. Our development team builds websites, e-commerce stores and mobile apps, so you can have design and development under one roof. We are also happy to hand over to your own developers." },
+        { "q": "How much does UI/UX design cost?", "a": "It depends on the number of screens, the amount of research and testing, and whether you need a design system. We provide a fixed quote after understanding your project." },
+        { "q": "Do you design for accessibility?", "a": "Yes. We follow accessibility best practice, including colour contrast, readable text sizes, keyboard navigation, clear focus states and descriptive labels, which also improves the experience for every user." },
+        { "q": "Can you test our existing design with real users?", "a": "Yes. We run usability sessions in which people complete real tasks on your website or app, and report what slowed them down or confused them, with recommended fixes." }
+      ]
+    }
+  ],
+  "related": {
+    "/app-development": "Mobile App Development",
+    "/web-development-company": "Website Designing & Development",
+    "/graphic-designing": "Graphic Designing",
+    "/ecommerce-website-development-company": "E-Commerce Website Development"
+  },
+  "cta": {
+    "heading": "Find Out What Is Stopping Your Visitors",
+    "text": "Ask for a free UX review of your website or app. We will point out the issues most likely to be costing you customers."
+  }
+}
